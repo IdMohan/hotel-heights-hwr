@@ -25,7 +25,7 @@
                             <li>
                                 <i class="bx bx-phone-call"></i>
                                 <a href="tel:+919718013001">+91 9718013001</a>
-                            </li>/////
+                            </li> 
                             <li>
                                 <i class="bx bx-envelope"></i>
                                 <a href="mailto:theheightshwr@gmail.com"><span class="__cf_email__">[theheightshwr@gmail.com]</span></a>
